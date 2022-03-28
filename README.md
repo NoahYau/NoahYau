@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @NoahYau
-- 👀 I’m interested in Computer & raspi
+- 👀 I’m interested in Computer & RasPi
 - 🌱 I’m currently learning ... many things
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... discord me or email me
